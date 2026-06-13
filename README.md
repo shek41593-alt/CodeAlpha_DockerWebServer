@@ -4,8 +4,6 @@
 
 # 🌐 Web Server using Docker
 
-### CodeAlpha Internship - Task 4
-
 Deploying and Managing a Containerized Web Server using Docker
 
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge\&logo=docker)
