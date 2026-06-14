@@ -370,9 +370,7 @@ Organizations package applications into Docker images and deploy them consistent
 
 **Abhishek K**
 
-CodeAlpha Internship Project
 
-Task 4 - Web Server using Docker
 
 ---
 
